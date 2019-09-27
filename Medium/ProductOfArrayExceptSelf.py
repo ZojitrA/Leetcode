@@ -19,6 +19,6 @@ class Solution:
                 nums[i] = 1
         return nums
 
-# has to be O(n) runtime without using division
+# has to be O(n) runtime without using divisione
 # Runtime: 152 ms, faster than 19.38% of Python3 online submissions for Product of Array Except Self.
 # Memory Usage: 19.9 MB, less than 94.00% of Python3 online submissions for Product of Array Except Self.
