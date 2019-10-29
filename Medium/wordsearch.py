@@ -1,10 +1,6 @@
 class Solution(object):
     def exist(self, board, word):
-        """
-        :type board: List[List[str]]
-        :type word: str
-        :rtype: bool
-        """
+
         unvisited = [[True for el in row] for row in board]
 
         for i in range(len(board)):
