@@ -55,3 +55,5 @@ class Solution(object):
             arr[k][m+1] = True
 
         return False
+
+# faster than 97% python3 solutions
